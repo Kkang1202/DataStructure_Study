@@ -1,4 +1,4 @@
-/*Dynamic Memory Allocation - 2*3 Matrix */
+/*Dynamic Memory Allocation - 2*3 array */
 /*Visual Studio*/
 #include<stdio.h>
 #include<stdlib.h>
